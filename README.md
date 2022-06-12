@@ -1,2 +1,3 @@
 # Donor-Fund-Stream-in-Kenya
-The Shiny App contains web information on the donor fund being given by major countries to INGOs in Kenya
+This is Shiny App that contains information on donor funding of INGO that works in Kenya.
+Data used is scrapped from internet sources.
